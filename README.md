@@ -1,7 +1,5 @@
 # hello
 
-My name is WhyNotDogie.
+yooooooo idk why you are here but welcome anyways!  
 
-xd
-
-### bye
+🐶

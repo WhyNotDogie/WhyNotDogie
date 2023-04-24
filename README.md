@@ -1,4 +1,4 @@
-# Whynotdogie
+# WhyNotDogie
 
 My name is WhyNotDogie, or for a shorter name Mizu, and I am a hobby programmer from the Netherlands.
 

@@ -11,5 +11,4 @@ My name is WhyNotDogie, or for a shorter name Mizu, and I am a hobby programmer 
 
 ## My projects
 * [Toylang](https://github.com/toy-lang) - My own dream Progarmming Language
-* [Spaced](https://github.com/WhyNotDogie/spaced) - My own game engine
 * And more coming up...

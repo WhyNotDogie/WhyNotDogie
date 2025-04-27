@@ -1,6 +1,6 @@
 # WhyNotDogie
 
-My name is WhyNotDogie, or for a shorter name Mizu, and I am a hobby programmer from the Netherlands.
+My name is WhyNotDogie, or for a shorter name Mizu, and I am a hobby programmer from the US and the Netherlands.
 
 ## My skills
 

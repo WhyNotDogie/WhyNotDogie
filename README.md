@@ -12,7 +12,3 @@ My name is WhyNotDogie, or for a shorter name Mizu, and I am a hobby programmer 
 <div align="center">
   <img src="https://logospng.org/download/java/logo-java-1024.png" width="15%">
 </div>
-
-## My projects
-* [Toylang](https://github.com/toy-lang) - My own dream Progarmming Language
-* And more coming up...
